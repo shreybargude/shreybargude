@@ -1,0 +1,24 @@
+product owner means on which product we are working that prouct ownership is in the hands of product owner.
+
+under him 
+development manager
+functional consultant who gathers the business
+testing manager
+
+manager => team 
+under him there is a team lead who can be a scrum master also he knows all about the technical means he is the technical team lead
+
+architect = one instance, if some ticket get some issue at the time of production then the architect fix that issue at the production phase which is called the hotfix, he fixes that code with the help of the developer who is working on that product during production time.
+
+or if any enhancement/change required for the product then the architect role is to design that thing like how we can make this change or enhance the product functionalities (10-12 years )
+
+BA - requirement what user will give he had to gather from the client and put that data and made one document file and attched to the user story
+
+scrum master role is to assign the ticket 
+scrum master assign the ticket based on the experience of a developer, priority, severity.
+ 
+
+manager => team => technical team leader(dev) (can be scrum master) => solution architect =>
+
+
+service request type user story - if we develop some product but it is not according to the cient requirement then we need to provide service for that product. for service request user type we need to work for free.
